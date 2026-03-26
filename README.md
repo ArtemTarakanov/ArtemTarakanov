@@ -37,15 +37,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> Контакты
 
 <div align="center">
-  <a href="https://t.me/tarakanofvw" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Написать" alt="Telegram" />
-  </a>
-  <a href="https://github.com/ArtemTarakanov" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&label=Профиль" alt="GitHub" />
-  </a>
-  <a href="mailto:artemtarakanov2505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Написать" alt="Email" />
-  </a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tarakanofvw)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArtemTarakanov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemtarakanov2505@gmail.com)
+
+<br>
+
+📧 artemtarakanov2505@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ @tarakanofvw
+
 </div>
 
 <br/>
@@ -55,5 +55,5 @@
 </div>
 
 <div align="center">
-  <sub>🔭 Все проекты и код доступны в репозиториях • Спасибо за визит!</sub>
+  <sub>🔭 Все проекты и код доступны в репозиториях выше • Спасибо за визит!</sub>
 </div>
