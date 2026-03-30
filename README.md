@@ -17,7 +17,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Обо мне
 
 Создаю современные и адаптивные веб-интерфейсы с фокусом на производительность и пользовательский опыт.  
-Внимателен к деталям, постоянно изучаю новые технологии и открыт к интересным проектам.
+Внимателен к деталям, постоянно изучаю новые технологии и открыт к интересным проектам
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Технологический стек
 
